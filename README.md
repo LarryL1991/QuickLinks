@@ -9,12 +9,12 @@ I added a tetris easter egg to the Quick Links program. While this didn't increa
 
 # Youtube videos and descriptions
 # Early Video 1
-May 6, 2018
+May 6, 2018  
 This was actually the first programming related video that I uploaded to YouTube. It was a short 3 second demonstration of the button class that I was working on. Once I finally figured out how to track mouse-over events I wanted to show off to my friends.  
 https://www.youtube.com/watch?v=9lFZBBrhHps  
 
 # Early Video 2
-May 11, 2018
+May 11, 2018  
 I completed my button class and incorporated it into the Quick Links program. You can see that the buttons change color when hovered and they turn a bright green when clicked. While a bright green color isn't great UI for normal users, the color green has a specific meaning to the workplace that I made the program for.  
 https://www.youtube.com/watch?v=3qc3lBUieCY
 
@@ -27,7 +27,7 @@ Video 1: https://youtu.be/86e8Lgi8RUU
 
 # Playlist Video 2
 February 7, 2019  
-I finally got a grid system working with a single falling block. The colors changed every time that the block hit the end because it was coded very similarly to what the easter egg looked like in Video 3. At this point the tetris code was a complete mess, but it looked good. I used a 2x2 array to store block locations.  
+I finally got a grid system working with a single falling block. The colors changed every time that the block hit the end because it was coded very similarly to what the easter egg looked like in Playlist Video 1. At this point the tetris code was a complete mess, but it looked good. I used a 2x2 array to store block locations.  
 Video 2: https://youtu.be/xZeifMKZ4OI  
 
 # Playlist Video 3
